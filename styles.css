@@ -1,0 +1,6 @@
+.item-scroller{padding-right:40px;position:relative} 
+.scroller-box{overflow:hidden;} 
+.scroll-item-box{position:relative;top:0;left:0;padding:5px 0;} 
+.scroll-up{position:absolute;font-size:22px;top:0;right:5px;} 
+.scroll-down{position:absolute;font-size:22px;bottom:0;right:5px;} 
+.scroll-up:hover, .scroll-down:hover{cursor:pointer;} 
